@@ -1,0 +1,28 @@
+name: collegiateleader.org
+favicon: null
+layout_spectrum: 0.44279319257475436
+typography_spectrum: 0.4334183249156922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5157400979660451
+  lightness: 0.7638043253682554
+  saturation: 0.34671187447384
+  rhythmicContrast: 0.3951415454503149
+purpose: []
