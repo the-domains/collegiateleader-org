@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The purpose of the Collegiate Leadership Competition (CLC) is to create a leadership "practice field".]]></title>
+        <description><![CDATA[The purpose of the Collegiate Leadership Competition (CLC) is to create a leadership "practice field".]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 19:33:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Collegiate Leadership Competition (CLC)]]></title>
+            <description><![CDATA[<article><h1>Collegiate Leadership Competition (CLC)</h1><p>The purpose of the Collegiate Leadership Competition (CLC) is to</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e461e44-691c-4039-b02a-3b892c1aa094.jpg"></article>]]></description>
+            <link>undefinedcollegiate-leadership-competition-clc/index.html</link>
+            <guid isPermaLink="false">cbd8cb6a-bba8-4c86-b40d-a29e883925b2</guid>
+            <pubDate>Mon, 11 Apr 2016 19:33:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
